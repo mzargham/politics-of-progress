@@ -50,6 +50,9 @@ Despite ideological differences, both texts are preoccupied with a common set of
 10. **Visions of the Future** – differing end-states that reflect competing values and aspirations.
 
 ### Analysis Table
+---
+layout: default
+---
 | **Theme** | **Description** | **Andreessen's Position** | **Klein & Thompson's Position** | **Common Assumptions** | **Conflicting Assumptions** | **Notes** |
 |-----------|------------------|-----------------------------|----------------------------------|-------------------------|------------------------------|--------------------------|
 | **1. Technological Progress** | Innovation as the engine of civilization | Technology is inherently good and must accelerate | Technology is essential but must be guided | Technology is necessary for progress | Constraints are harmful (A) vs. necessary to coordinate (K&T) | Both frame constraints as external to tech rather than shaped by it; ignores embedded politics of design |
@@ -142,7 +145,6 @@ Both *The Techno-Optimist Manifesto* and *Abundance* ultimately reinforce a neo-
 A metamodern political economy rejects the notion that progress is a universal trajectory. Instead, it embraces governance as a **distributed, negotiated, and adaptive process**, oriented around resilience, constraint satisfaction, and contextual fit. This shift reframes governance not as a failure to optimize, but as the **deliberate creation of conditions for meaningful, diverse flourishing**.
 
 Such an approach privileges **polycentricity, subsidiarity, and maximin thinking**—not as abstract ideals, but as institutional design principles grounded in lived ecological, social, and technological realities.
-
 
 ## Conclusion
 
