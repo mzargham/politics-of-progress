@@ -7,7 +7,7 @@ layout: default
 
 This document explores the ideological contours of contemporary techno-political thought through a comparative analysis of two influential works: *The Techno-Optimist Manifesto* by Marc Andreessen and *Abundance* by Ezra Klein & Derek Thompson. By examining how each frames the relationship between technology, governance, and society, we aim to surface the assumptions that structure the modern Overton window on progress. 
 
-Our method involves comparative summarization, thematic decomposition, and a meta-analysis of the shared conceptual space they inhabit. Rather than simply cataloging points of agreement and disagreement, this document aims to identify the deeper epistemic assumptions and conceptual blind spots that shape how technological progress, political economy, and governance are imagined today.
+Our method involves comparative summarization, thematic decomposition, and a meta-analysis of the shared conceptual space they inhabit. Rather than simply cataloging points of agreement and disagreement, this document aims to identify the deeper epistemic assumptions and conceptual blind spots that shape how technological progress, political economy, and governance are imagined today. This AI-aided work is part of a broader inquiry into the role AI can play in synthesis and sensemaking when wielded as a tool rather than as an oracle.
 
 ## Sources
 
