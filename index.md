@@ -153,6 +153,8 @@ The comparative study of *The Techno-Optimist Manifesto* and *Abundance* reveals
 
 A more robust, future-oriented political economy would move beyond this paradigm by embracing a **metamodern synthesis**: governance as **adaptive constraint negotiation**. Rather than seeking global optimizations, this approach centers on **polycentric, subsidiarity-driven frameworks** where local actors pursue diverse objectives within shared ecological, social, and institutional boundaries.
 
+Efficiency is not maximized at the cost of resilience; instead, **diversity, redundancy, and systemic integrity** are recognized as essential. Governance becomes a matter of making room—for many goals, for many ways of living—within constraints we all share. This vision mirrors **permaculture principles applied to political economy**: cultivating ecologies of governance that are layered, adaptive, and committed to long-term flourishing within a finite and interdependent world.
+
 ---
 ## Recommended Citation
 
@@ -162,6 +164,4 @@ A more robust, future-oriented political economy would move beyond this paradigm
 ## AI Acknowledgment
 
 This document was developed with the assistance of the ChatGPT-4.5 research preview as a tool for formatting, synthesis, and iterative refinement. The author takes full responsibility for the ideas expressed, including all interpretations, framing choices, and possible oversights. The use of AI supported the articulation of existing insights but did not substitute for critical judgment or original analysis.
-Efficiency is not maximized at the cost of resilience; instead, **diversity, redundancy, and systemic integrity** are recognized as essential. Governance becomes a matter of making room—for many goals, for many ways of living—within constraints we all share.
 
-This vision mirrors **permaculture principles applied to political economy**: cultivating ecologies of governance that are layered, adaptive, and committed to long-term flourishing within a finite and interdependent world.
