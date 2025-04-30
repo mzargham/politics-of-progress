@@ -163,5 +163,5 @@ Efficiency is not maximized at the cost of resilience; instead, **diversity, red
 ---
 ## AI Acknowledgment
 
-This document was developed with the assistance of the ChatGPT-4.5 research preview as a tool for formatting, synthesis, and iterative refinement. The author takes full responsibility for the ideas expressed, including all interpretations, framing choices, and possible oversights. The use of AI supported the articulation of existing insights but did not substitute for critical judgment or original analysis. This AI-aided work is part of a broader inquiry into the role AI can play in synthesis and sensemaking when weilded as a tool rather than as an oracle.
+This document was developed with the assistance of the ChatGPT-4.5 research preview as a tool for formatting, synthesis, and iterative refinement. The author takes full responsibility for the ideas expressed, including all interpretations, framing choices, and possible oversights. The use of AI supported the articulation of existing insights but did not substitute for critical judgment or original analysis. This AI-aided work is part of a broader inquiry into the role AI can play in synthesis and sensemaking when wielded as a tool rather than as an oracle.
 
