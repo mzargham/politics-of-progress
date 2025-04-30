@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # The Politics of Progress
 
 ## Introduction
@@ -50,9 +53,7 @@ Despite ideological differences, both texts are preoccupied with a common set of
 10. **Visions of the Future** – differing end-states that reflect competing values and aspirations.
 
 ### Analysis Table
----
-layout: default
----
+
 | **Theme** | **Description** | **Andreessen's Position** | **Klein & Thompson's Position** | **Common Assumptions** | **Conflicting Assumptions** | **Notes** |
 |-----------|------------------|-----------------------------|----------------------------------|-------------------------|------------------------------|--------------------------|
 | **1. Technological Progress** | Innovation as the engine of civilization | Technology is inherently good and must accelerate | Technology is essential but must be guided | Technology is necessary for progress | Constraints are harmful (A) vs. necessary to coordinate (K&T) | Both frame constraints as external to tech rather than shaped by it; ignores embedded politics of design |
